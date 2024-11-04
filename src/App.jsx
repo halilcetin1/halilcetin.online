@@ -1,12 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import f from '../public/img/profil.png'
+
 import { BsInstagram, BsMailbox } from 'react-icons/bs'
 import { LiaLinkedin } from 'react-icons/lia'
 import { GrGithub } from 'react-icons/gr'
 import { MdMail } from 'react-icons/md'
+import profil from './images/profil.png'
 function App() {
 
   return (
@@ -18,7 +17,7 @@ function App() {
 
     </header>
 <div className="card">
-<img className='foto' width={300} height={300} src='../public/img/profil.png' alt="" />
+<img className='foto' width={300} height={300} src={profil} alt="" />
 <h1 >Halil ÇETİN</h1>
 <h2>Web Developer</h2>
 <div className='social-container'> <a href="https://www.instagram.com/halilcetin_7/"><BsInstagram className='social'/></a>
