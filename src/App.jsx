@@ -27,7 +27,7 @@ function App() {
 
 </div>
 </div>
-
+<div>new uptade</div>
    
    </div>
   )
