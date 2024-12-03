@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
 *{
   padding: 0;
   margin: 0;
@@ -22,8 +23,10 @@
   }
 }
 body{
-  background-color: #0b1623;
-  color: #fff;
+
+background-color: #0d1013;
+color: #f1c40f;
+font-family: "Dancing Script", cursive;
 }
 
 .header{
@@ -34,18 +37,7 @@ body{
   align-items: center;
   justify-content: space-around;
 }
-.header a{
-  text-decoration: none;
-  color: #fff;
-}
-.header a:hover{
-  color: aqua ;
- border-bottom: 1px solid aqua;
- transition: all 0.4s ease-in;
-}
-.paragraph{
- 
-}
+
 .foto
 { 
   border-radius: 50%;
@@ -72,7 +64,7 @@ body{
 
 }
 .social{
-  color: #fff;
+
   font-size: 35px;
 
 
@@ -86,5 +78,7 @@ gap: 20px; width: 100%;
 }
 .linkedin{
   font-size: 45px;
-  color: #fff;
+}
+#title{
+  font-family: "Dancing Script", cursive;
 }
