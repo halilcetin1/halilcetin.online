@@ -18,7 +18,7 @@ function Profil (){
 <img className='foto' width={300} height={300} src={profil} alt="" />
 <h1 id='title'>Halil ÇETİN</h1>
 <h2 className='font-mono'>Web Developer</h2>
-<div className='social-container'> <a href="https://www.instagram.com/halilcetin_7/"><BsInstagram className='social text-purple-600'/></a>
+<div className='social-container'> <a href="https://www.instagram.com/halilcetin.8/"><BsInstagram className='social text-purple-600'/></a>
 <a href="https://www.linkedin.com/in/halil-%C3%A7etin-aa238422a/"><LiaLinkedin className='linkedin text-blue-700 '/></a>
 <a href="https://github.com/halilcetin1"><GrGithub className='social text-white'/></a>
 <a href='mailto:halilc3618@gmail.com'><MdMail className='social text-green-400'/></a>
