@@ -13,7 +13,7 @@ function App() {
    <HelmetProvider context={helmetContext}>
 <Helmet>
    <title>Anasayfa..</title>
-   <meta name="description" content="halil çetin kişisel websitesifir"  />
+   <meta name="description" content="halil çetin kişisel websitesi "  />
    <meta  name='keywords' content='Halil çetin ,halilcetinonline ,halil Çetin ,web geliştiricisi ,şanlıurfa web '/>
 </Helmet>
    <div>
